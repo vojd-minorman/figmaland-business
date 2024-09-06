@@ -7,7 +7,7 @@ import MainTitle from "./mainTitle"
 
 export default function FeaturesSection() {
     return (
-        <div className="py-6">
+        <div className="py-3">
             <section className="py-6">
                 <div>
                     <MainTitle
