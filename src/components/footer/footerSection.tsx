@@ -8,9 +8,9 @@ export default function FooterSection() {
             <FooterList/>
             <FooterList/>
             <div className="">
-                <div className="flex flex-row">
-                    <div><img src={location} alt="" /></div>
-                    <p>Bb</p>
+                <div className="flex flex-row justify-center gap-2 p-2">
+                    <div><img src={location} alt="" className="w-12"/></div>
+                    <p className="pt-3 text-sm">7480 Mockingbird Hill Undefined</p>
                 </div>
             </div>
         </div>
