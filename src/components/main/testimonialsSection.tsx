@@ -20,7 +20,7 @@ export default function TestimonialSection() {
 Slate is designed for freelancers who want a 
 simple way to plan their schedule.</p>
                         </div>
-                        <div className="flex flex-row justify-center gap-2">
+                        <div className="flex flex-row justify-center gap-2 pb-12">
                             <div>
                                 <img src={avatar} alt="" className="rounded-full w-12"/>
                             </div>
