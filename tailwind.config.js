@@ -5,9 +5,11 @@ export default {
   ],
   theme: {
     extend: {
-      borderRadius : {"lg" : "1rem",
-    }},
+      borderRadius : {"lg" : "1rem"},
+      colors : {
+        blueDark : "#252B42"},
   },
   plugins: [],
+}
 }
 

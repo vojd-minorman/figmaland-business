@@ -1,5 +1,6 @@
 import FeaturesSection from "./featuresSection";
 import PartenerSection from "./partnersSection";
+import TestimonialSection from "./testimonialsSection";
 
 
 function Main() {
@@ -7,6 +8,7 @@ function Main() {
         <>
         <FeaturesSection/>
         <PartenerSection/>
+        <TestimonialSection/>
         </>
 
     )
