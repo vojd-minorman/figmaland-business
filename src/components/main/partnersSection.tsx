@@ -16,11 +16,14 @@ export default function PartenerSection() {
                         Slate is designed for freelancers "
                     />
                 </div>
+                <div className="sm:flex sm:flex-row">
                 <PartenerCard
                     src = {google}
                 />
                 <PartenerCard src = {amazon}/>
                 <PartenerCard src = {microsoft}/>
+                </div>
+
             </section>
         </div>
 

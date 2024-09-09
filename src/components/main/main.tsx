@@ -5,11 +5,11 @@ import TestimonialSection from "./testimonialsSection";
 
 function Main() {
     return (
-        <>
+        <div className="container">
         <FeaturesSection/>
         <PartenerSection/>
         <TestimonialSection/>
-        </>
+        </div>
 
     )
 }

@@ -2,7 +2,7 @@ export default function FooterList() {
     return(
 
     
-    <section className="py-8">
+    <section className="py-8 sm:pt-2">
     <p className="font-bold text-xl pb-6">Annette Steward</p>
     <ul className="font-light">
         <li className="py-3">Jennie Cooper</li>

@@ -5,8 +5,8 @@ interface FeatureCardProps {
 }
 export default function FeaturesCard(props : FeatureCardProps) {
     return (
-        <div className="p-8 text-center">
-            <div className="flex justify-center">
+        <div className="p-8 text-center ">
+            <div className="flex justify-center ">
                 <img src={props.image} alt="" className="w-14" />
             </div>
             <div className="">
